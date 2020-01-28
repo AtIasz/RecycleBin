@@ -4,26 +4,26 @@ using System.Text;
 
 namespace RecycleTheTrashPpl
 {
-    class PlasticGarbage
+    class PlasticGarbage : Garbage
     {
         
-        private string name;
+        public string name;
         private bool isClean;
 
-        PlasticGarbage(string name, bool isClean)
+        public PlasticGarbage(string name, bool isClean)
         {
-            name = this.name;
-            isClean = this.isClean;
+            this.name = name;
+            this.isClean = isClean;
         }
 
         void Clean()
         {
-
+            isClean = true;
         }
 
         bool IsClean()
         {
-            
+            return isClean;
         }
         
     }

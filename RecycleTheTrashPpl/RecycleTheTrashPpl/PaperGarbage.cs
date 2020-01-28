@@ -4,16 +4,16 @@ using System.Text;
 
 namespace RecycleTheTrashPpl
 {
-    class PaperGarbage
+    class PaperGarbage : Garbage
     {
-        
+
         private string name;
         private bool isSqueezed;
 
-        public PaperGarbage(String name, bool isSqueezed)
+        public PaperGarbage(string name, bool isSqueezed)
         {
-            name = this.name;
-            isSqueezed = this.isSqueezed;
+            this.name = name;
+            this.isSqueezed = isSqueezed;
         }
 
         void Squeeze()

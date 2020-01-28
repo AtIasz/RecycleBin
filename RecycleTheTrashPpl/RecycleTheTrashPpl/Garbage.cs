@@ -10,7 +10,7 @@ namespace RecycleTheTrashPpl
         private string name;
         public Garbage(string name)
         {
-            name = this.name;
+            this.name = name;
         }
         
         string getName()

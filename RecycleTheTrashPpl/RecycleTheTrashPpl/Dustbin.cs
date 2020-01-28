@@ -14,16 +14,16 @@ namespace RecycleTheTrashPpl
 
         public PaperGarbage[] GetPaperContent()
         {
-            
+            return paperContent;
         }
 
         public PlasticGarbage[] GetPlasticContent()
         {
-            
+            return plasticContent;
         }
         public Garbage[] GetHouseWasteContent()
         {
-
+            return houseWasteContent;
         }
         public void DisplayContents()
         {
