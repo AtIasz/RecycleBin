@@ -35,9 +35,25 @@ namespace RecycleTheTrashPpl
         public void ThrowOutGarbage(Garbage garbage)
         {
             throw new DustbinContentException();
-        }
-        public void Throw()
-        {
+
+            if (garbage is PlasticGarbage){
+                PlasticGarbage plasticGarbage = (PlasticGarbage)garbage;
+                if (plasticGarbage.isClean)
+                    {
+                int newLength = PlasticContent.Length + 1;
+                    PlasticContent = new PlasticGarbage[newLength];
+                    PlasticContent[newLength-1] = plasticGarbage;
+                    Console.WriteLine("plastic +1!");
+                }
+                else 
+                {
+                throw DustbinContentException();
+                }
+             else
+                {
+
+                }
+            }
 
         }
         
