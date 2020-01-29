@@ -7,16 +7,18 @@ namespace RecycleTheTrashPpl
     class Garbage
     {
 
-        private string name;
-        public Garbage(string name)
+        public string name { get; set; }
+        public Garbage (string garbageName)
         {
-            this.name = name;
+            this.name = garbageName;
         }
         
-        string getName()
+        public Garbage()
         {
-            return name;
+
         }
+        
+        
         
     }
 }

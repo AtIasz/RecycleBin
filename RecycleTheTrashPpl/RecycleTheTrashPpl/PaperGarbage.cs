@@ -7,20 +7,20 @@ namespace RecycleTheTrashPpl
     class PaperGarbage : Garbage
     {
 
-        private string name;
+        
         private bool isSqueezed;
 
-        public PaperGarbage(string name, bool isSqueezed)
+        public PaperGarbage(string garbageName ,bool isSqueezed) : base(garbageName)
         {
-            this.name = name;
+            
             this.isSqueezed = isSqueezed;
         }
 
-        void Squeeze()
+        public void Squeeze()
         {
             isSqueezed = true;
         }
-        bool IsSqueezed()
+        public bool IsSqueezed()
         {
             return isSqueezed;
         }

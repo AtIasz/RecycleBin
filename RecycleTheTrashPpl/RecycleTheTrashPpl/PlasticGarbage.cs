@@ -6,22 +6,22 @@ namespace RecycleTheTrashPpl
 {
     class PlasticGarbage : Garbage
     {
-        
-        public string name;
-        private bool isClean;
 
-        public PlasticGarbage(string name, bool isClean)
+
+        public bool isClean;
+
+        public PlasticGarbage(string garbageName, bool isClean) : base(garbageName)
         {
-            this.name = name;
+            
             this.isClean = isClean;
         }
 
-        void Clean()
+        public void Clean()
         {
             isClean = true;
         }
 
-        bool IsClean()
+        public bool IsClean()
         {
             return isClean;
         }

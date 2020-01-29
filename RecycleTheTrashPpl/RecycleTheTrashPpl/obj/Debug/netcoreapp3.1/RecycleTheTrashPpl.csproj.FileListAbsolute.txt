@@ -9,3 +9,14 @@ C:\Users\Én\source\repos\RecycleTheTrashPpl\RecycleTheTrashPpl\obj\Debug\netcor
 C:\Users\Én\source\repos\RecycleTheTrashPpl\RecycleTheTrashPpl\obj\Debug\netcoreapp3.1\RecycleTheTrashPpl.AssemblyInfo.cs
 C:\Users\Én\source\repos\RecycleTheTrashPpl\RecycleTheTrashPpl\obj\Debug\netcoreapp3.1\RecycleTheTrashPpl.dll
 C:\Users\Én\source\repos\RecycleTheTrashPpl\RecycleTheTrashPpl\obj\Debug\netcoreapp3.1\RecycleTheTrashPpl.pdb
+C:\Users\Gergő\Desktop\Codecool\TrashCollector\RecycleTheTrashPpl\RecycleTheTrashPpl\bin\Debug\netcoreapp3.1\RecycleTheTrashPpl.exe
+C:\Users\Gergő\Desktop\Codecool\TrashCollector\RecycleTheTrashPpl\RecycleTheTrashPpl\bin\Debug\netcoreapp3.1\RecycleTheTrashPpl.deps.json
+C:\Users\Gergő\Desktop\Codecool\TrashCollector\RecycleTheTrashPpl\RecycleTheTrashPpl\bin\Debug\netcoreapp3.1\RecycleTheTrashPpl.runtimeconfig.json
+C:\Users\Gergő\Desktop\Codecool\TrashCollector\RecycleTheTrashPpl\RecycleTheTrashPpl\bin\Debug\netcoreapp3.1\RecycleTheTrashPpl.runtimeconfig.dev.json
+C:\Users\Gergő\Desktop\Codecool\TrashCollector\RecycleTheTrashPpl\RecycleTheTrashPpl\bin\Debug\netcoreapp3.1\RecycleTheTrashPpl.dll
+C:\Users\Gergő\Desktop\Codecool\TrashCollector\RecycleTheTrashPpl\RecycleTheTrashPpl\bin\Debug\netcoreapp3.1\RecycleTheTrashPpl.pdb
+C:\Users\Gergő\Desktop\Codecool\TrashCollector\RecycleTheTrashPpl\RecycleTheTrashPpl\obj\Debug\netcoreapp3.1\RecycleTheTrashPpl.csprojAssemblyReference.cache
+C:\Users\Gergő\Desktop\Codecool\TrashCollector\RecycleTheTrashPpl\RecycleTheTrashPpl\obj\Debug\netcoreapp3.1\RecycleTheTrashPpl.AssemblyInfoInputs.cache
+C:\Users\Gergő\Desktop\Codecool\TrashCollector\RecycleTheTrashPpl\RecycleTheTrashPpl\obj\Debug\netcoreapp3.1\RecycleTheTrashPpl.AssemblyInfo.cs
+C:\Users\Gergő\Desktop\Codecool\TrashCollector\RecycleTheTrashPpl\RecycleTheTrashPpl\obj\Debug\netcoreapp3.1\RecycleTheTrashPpl.dll
+C:\Users\Gergő\Desktop\Codecool\TrashCollector\RecycleTheTrashPpl\RecycleTheTrashPpl\obj\Debug\netcoreapp3.1\RecycleTheTrashPpl.pdb
